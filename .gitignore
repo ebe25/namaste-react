@@ -1,0 +1,7 @@
+# Build folder and log file
+build/
+build.log
+
+dist
+.parcel-cache
+node_modules

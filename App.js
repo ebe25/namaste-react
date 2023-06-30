@@ -1,4 +1,8 @@
+import React from "react";
+import ReactDOM from "react-dom";
+
 /* 
+
     <div id=parent>
         <div id="child1">
             <h1> a h1 tag <h1>
@@ -9,6 +13,36 @@
             <h2> a h2 tag <h2>
         </div>
     </div>
+
+
+
+
+*/
+
+/*
+
+#Parcel 
+Creates a server
+ HMR (Hot Module replacement) -> thus the live reloading and rendering.
+#HMR (Hot Module  replacement) uses the File Watcher Algorithm-> c++
+#Bundler
+#MINIFY
+#Dev and Production Build
+#Cleaning our Code
+#Super fast build algorithm
+#Image optimization
+#Chahing while development
+#compression
+#Compatible with older version of browser
+#Https on dev
+#Auto assign pot number
+#Consistent Hashing Algorithm
+#Zero config
+
+
+
+#Transitive dependencies- dependicies inside the lock.json . if a is dependent on b and b is dependent on c.
+
 
 */
 
